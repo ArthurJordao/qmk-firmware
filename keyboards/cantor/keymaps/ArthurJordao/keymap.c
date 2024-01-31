@@ -1,4 +1,5 @@
 #include QMK_KEYBOARD_H
+#define TAPPING_TERM 150
 
 
 
